@@ -41,5 +41,3 @@ If you want to contribute to this project, follow these steps:
 - Push to the branch: git push origin my-branch
 - Open a pull request.
 
-## Contact
-If you have any questions or suggestions, you can contact me by email at contact@myemail.com or through my GitHub profile at https://github.com/myusername.
