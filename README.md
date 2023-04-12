@@ -32,12 +32,4 @@ This project has the following dependencies:
 - Matplotlib (version 3.4.3 or higher)
 - JupyterLab (version 3.2.0 or higher)
 
-# Contribution
-If you want to contribute to this project, follow these steps:
-
-- Fork this repository.
-- Create a branch with your changes: git checkout -b my-branch
-- Commit your changes: git commit -m 'Added a new feature'
-- Push to the branch: git push origin my-branch
-- Open a pull request.
 
