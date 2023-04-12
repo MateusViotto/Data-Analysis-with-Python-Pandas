@@ -13,7 +13,6 @@ To install the project, follow the steps below:
 To use the data analysis project, follow the instructions below:
 
 - Open the 7DaysToCode_PythonPandas_Day1.ipynb file in Jupyter Notebook.
-- Check if the path of the CSV file with the data is correct.
 - Run the notebook cells to generate the visualizations.
 
 ## Features
