@@ -19,7 +19,7 @@ To use the data analysis project, follow the instructions below:
 ## Features
 The data analysis project includes the following features:
 
-- Importing data from a CSV file
+- Importing data from a CSV/Excel/Parquet file
 - Descriptive statistics analysis
 - Data visualization with bar, pie, and scatter plots
 
