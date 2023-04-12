@@ -21,7 +21,7 @@ The data analysis project includes the following features:
 
 - Importing data from a CSV/Excel/Parquet file
 - Descriptive statistics analysis
-- Data visualization with bar, pie, and scatter plots
+- Data visualization with bar and line plots and box_plot
 
 ## Dependencies
 This project has the following dependencies:
