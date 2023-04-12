@@ -6,7 +6,7 @@ This is a data analysis project of a library system, where data about borrowed b
 To install the project, follow the steps below:
 
 - Clone this repository on your local machine.
-- Install the dependencies with the following command: pip install pandas plotly matplotlib jupyterlab
+- Install the dependencies with the following command: `pip install pandas plotly matplotlib jupyterlab `
 - Run the command jupyter lab in a terminal to open the development environment.
 
 ## Usage
