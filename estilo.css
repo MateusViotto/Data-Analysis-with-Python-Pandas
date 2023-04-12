@@ -1,0 +1,21 @@
+table { 		font-family: arial;
+                  font-size: 1rem; 
+                  text-align: center; 
+                  border-collapse: collapse; 
+                  border-spacing: 0; 
+                  width: 100%; 
+                  border-radius: 0.25rem; 
+                  box-shadow: 0 0 1rem gray; 
+              } 
+              th, td { 
+                  padding: 0.5rem; 
+                  font-weight: bold; 
+                  border-bottom: 0.1rem solid lightgray; 
+              } 
+              th { 
+                  font-size: 1.4rem; 
+                  text-align: center; 
+                  font-weight: bold; 
+                  color: whitesmoke; 
+                  background-color: #001692; 
+              }
